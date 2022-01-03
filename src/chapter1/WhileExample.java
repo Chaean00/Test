@@ -1,4 +1,4 @@
-package chapter2;
+package chapter1;
 
 public class WhileExample {
     public static void main(String[] args) {
